@@ -53,8 +53,7 @@ for i in range(n):
 ```
 
 ## Output:
-![image](https://github.com/paulsamson18/Gaussian/assets/119405794/2fadf28e-62fc-468f-8b05-e472ca580e09)
-
+![image](https://github.com/paulsamson18/Gaussian/assets/119405794/da60786e-07f8-4993-860f-d79702fe232f)
 
 
 ## Result:
